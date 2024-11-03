@@ -2,7 +2,7 @@
 
 ## JavaScript Algorithms and Data Structures 2
 
-# Gradebook App
+# [Gradebook App](https://github.com/UniBreakfast/free-code-camp-javascript-algorithms-2-gradebook-app)
 
 [project link](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures-v8/review-js-fundamentals-by-building-a-gradebook-app/step-1)
 
